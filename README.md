@@ -1,11 +1,11 @@
-About r-shinyvalidate
-=====================
+About r-shinyvalidate-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinyvalidate-feedstock/blob/main/LICENSE.txt)
 
 Home: https://rstudio.github.io/shinyvalidate/, https://github.com/rstudio/shinyvalidate
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinyvalidate-feedstock/blob/main/LICENSE.txt)
 
 Summary: Improves the user experience of Shiny apps by helping to provide feedback when required
 inputs are missing, or input values are not valid.
